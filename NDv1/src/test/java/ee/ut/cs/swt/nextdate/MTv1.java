@@ -5,8 +5,9 @@ import org.junit.AfterClass;
 import org.junit.Test;
 
 public class MTv1 {
-	
-	private NextDate trialDate = new NextDate(3,4,1976);
+
+	private NextDateNDv12 trialDate = new NextDateNDv12(3, 4, 1976);
+
 
 	@AfterClass
 	public static void tearDownAfterClass() throws Exception {
