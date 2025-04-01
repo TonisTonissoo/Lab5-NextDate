@@ -6,7 +6,7 @@ import org.junit.Test;
 
 public class MTv1 {
 
-	private NextDateNDv12 trialDate = new NextDateNDv12(3, 4, 1976);
+	private NextDateNDv2 trialDate = new NextDateNDv2(3, 4, 1976);
 
 
 	@AfterClass
